@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      morganwg
+HostName                       big02.seas.upenn.edu
+ProcessIdentifier              31820
+ProcessCreationTime_UTC        1765084317
+ProcessCreationTime_Readable   Sun Dec  7 00:11:57 2025 EST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /lcars/home/m/morganwg/cadenceGPDK/vlsi_dram/TB_delay_full_array_read/schematic/sch.oa.cdslck
+TimeEditLocked                 Sun Dec  7 00:13:18 2025 EST
