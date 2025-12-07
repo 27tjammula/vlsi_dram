@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      morganwg
+HostName                       bunnyhop.seas.upenn.edu
+ProcessIdentifier              9597
+ProcessCreationTime_UTC        1764878857
+ProcessCreationTime_Readable   Thu Dec  4 15:07:37 2025 EST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /mnt/lcars/home/m/morganwg/cadenceGPDK/ESE5720_Project/bootstrap_test/schematic/sch.oa.cdslck
+TimeEditLocked                 Thu Dec  4 15:08:07 2025 EST
